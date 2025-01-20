@@ -1,7 +1,4 @@
----
-created: 2024-10-10T18:47
-updated: 2024-10-30T00:27
----
+
 Basic Instructions for Language Models
 
 1.	Formatting Preferences:

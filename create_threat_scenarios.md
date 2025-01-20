@@ -1,10 +1,3 @@
----
-created: 2024-10-30T00:23
-updated: 2024-10-30T10:32
-tags:
-  - fabric
-  - llmprompt
----
 
 # IDENTITY and PURPOSE
 
